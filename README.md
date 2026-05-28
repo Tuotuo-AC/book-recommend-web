@@ -1,12 +1,12 @@
 ## 图书推荐系统 Web 应用
 
-将Book-Recommend-System项目中训练的图书推荐系统（基于 **SVD**模型）扩展为一个**前后端分离****的** **Web 项目**，提供 **Vue 前端** + **Flask 后端** 完整 Web 服务，让用户通过浏览器交互，获得个性化图书推荐。
+将Book-Recommend-System项目中训练的图书推荐模型（ **SVD**）扩展为一个**前后端分离的 Web 项目**，提供 **Vue 前端** + **Flask 后端**完整 Web 服务，让用户通过浏览器交互，获得个性化图书推荐。
 
 #### web页面展示
 
 用户输入用户 ID，系统返回 Top-10 个性化图书推荐（含预测评分）。
 
-![image-20260527221722653](C:\Users\wqeas\AppData\Roaming\Typora\typora-user-images\image-20260527221722653.png)
+![image-20260527221722653](D:\BR-web.png)
 
 ---
 
